@@ -1,4 +1,4 @@
-readme = """# ServEase – Local Service Booking Platform
+readme = ServEase – Local Service Booking Platform
 
 ServEase is a full-stack local service booking platform that connects customers with service providers. It supports service discovery, provider profiles, booking requests, request acceptance/rejection, work completion, optional extra charge approval, booking history, and reviews.
 
